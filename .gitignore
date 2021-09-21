@@ -9,7 +9,6 @@ package-lock.json
 
 # testing
 /coverage
-.eslintrc.json
 .babelrc
 .stylelintrc.json
 
